@@ -1,4 +1,4 @@
-name: Deploy To EC2 via SSH
+name: Deploy To EC2 via SSH laha
 
 on:
   push:
